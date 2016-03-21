@@ -10,7 +10,7 @@ int main (int argc, char **argv)
 	{
 		if ( argc == 2 )
 		{
-			printf("\nHello, %s\n\n", argv[1]);
+			printf("\nHello World, %s!\n\n", argv[1]);
 		}
 		else
 		{
